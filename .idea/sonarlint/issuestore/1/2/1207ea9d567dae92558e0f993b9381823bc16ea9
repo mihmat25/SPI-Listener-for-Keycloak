@@ -1,0 +1,60 @@
+
+g	java:S1124"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8å¹Öšê1
+S
+java:S2629?"7Use the built-in formatting to construct this argument.(Êòô]8ç¹Öšê1
+T
+java:S2629@"7Use the built-in formatting to construct this argument.(î¦ãó8ç¹Öšê1
+T
+java:S2629J"7Use the built-in formatting to construct this argument.(…øşÅ8ç¹Öšê1
+Y
+java:S2629O"7Use the built-in formatting to construct this argument.(¼ñ”Íøÿÿÿÿ8ç¹Öšê1
+Y
+java:S2629Q"7Use the built-in formatting to construct this argument.(“ˆÇ‹ÿÿÿÿÿ8ç¹Öšê1
+y
+java:S2629X"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(®×»¹8ç¹Öšê1
+Y
+java:S2629d"7Use the built-in formatting to construct this argument.(äÊÁúıÿÿÿÿ8¨ùğÀê1
+S
+java:S2629g"7Use the built-in formatting to construct this argument.(şÍ–48è¹Öšê1
+v	java:S116"URename this field "REALM_UUID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ÀÛÁúÿÿÿÿ8ú¹Öšê1
+r	java:S116"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â’œúÿÿÿÿ8ú¹Öšê1
+s	java:S116!"RRename this field "DB_USER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Îå„Òúÿÿÿÿ8ú¹Öšê1
+r	java:S116#"VRename this field "DB_PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñôæº8ú¹Öšê1
+v	java:S116%"ZRename this field "DB_INSERT_QUERY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆÓìü8ú¹Öšê1
+
+java:S1186+"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‚«’ë8ú¹Öšê1
+£
+java:S1186p"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(—µ±şıÿÿÿÿ8ú¹Öšê1
+
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(€™ã¶8ú¹Öšê1
+{
+java:S1450%"^Remove the "DB_INSERT_QUERY" field and declare it as a local variable in the relevant methods.(ˆÓìü8º¦×šê1
+w
+java:S1450#"ZRemove the "DB_PASSWORD" field and declare it as a local variable in the relevant methods.(ñôæº8ü¹Öšê1
+w
+java:S1450"URemove the "DB_URL" field and declare it as a local variable in the relevant methods.(Â’œúÿÿÿÿ8ü¹Öšê1
+x
+java:S1450!"VRemove the "DB_USER" field and declare it as a local variable in the relevant methods.(Îå„Òúÿÿÿÿ8ü¹Öšê1
+{
+java:S1450"YRemove the "REALM_UUID" field and declare it as a local variable in the relevant methods.(³ÀÛÁúÿÿÿÿ8ü¹Öšê1
+]
+java:S3457?"AFormat specifiers should be used instead of string concatenation.(Êòô]8ºÖšê1
+^
+java:S3457@"AFormat specifiers should be used instead of string concatenation.(î¦ãó8ºÖšê1
+T
+java:S1135F"2Complete the task associated to this TODO comment.(ñƒ´Øıÿÿÿÿ8‚ºÖšê1
+^
+java:S3457J"AFormat specifiers should be used instead of string concatenation.(…øşÅ8‚ºÖšê1
+L	java:S106L"+Replace this use of System.out by a logger.(“¶šÛÿÿÿÿÿ8ƒºÖšê1
+c
+java:S3457O"AFormat specifiers should be used instead of string concatenation.(¼ñ”Íøÿÿÿÿ8ƒºÖšê1
+c
+java:S3457Q"AFormat specifiers should be used instead of string concatenation.(“ˆÇ‹ÿÿÿÿÿ8ƒºÖšê1
+^
+java:S3457X"AFormat specifiers should be used instead of string concatenation.(®×»¹8„ºÖšê1
+B
+java:S2116X"%Use "Arrays.toString(array)" instead.(®×»¹8„ºÖšê1
+c
+java:S3457d"AFormat specifiers should be used instead of string concatenation.(äÊÁúıÿÿÿÿ8…ºÖšê1
+]
+java:S3457g"AFormat specifiers should be used instead of string concatenation.(şÍ–48…ºÖšê1
